@@ -1,0 +1,38 @@
+# .gitignore
+
+# Ignore the IDE configuration files
+*.idea
+*.vscode
+
+# Ignore the environment variable file
+.env
+
+# Ignore the media directory
+media/
+
+# Ignore the static directory
+static/
+
+# Ignore the templates directory
+templates/
+
+# Ignore the logs directory
+logs/
+
+# Ignore the __pycache__ directory
+__pycache__/
+
+# Ignore the build directory
+build/
+
+# Ignore the dist directory
+dist/
+
+# Ignore the venv directory
+env/
+
+# Ignore the .git directory
+.git/
+
+# Ignore the .gitignore file
+.gitignore
